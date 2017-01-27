@@ -28,7 +28,7 @@ html{
     height: 39px;
     width: 20%;
     float: left;
-    font-family: AppleGothic, Geneva, Arial, Helvetica;
+    font-family: Avenir, SansSerif, Geneva, Arial, Helvetica;
     font-size: 16px;
     font-weight: bold;
     color: black;
@@ -52,7 +52,7 @@ html{
 #content{
     background-color: white;
     color: #000;
-    font-family: AppleGothic;
+    font-family: Avenir, SansSerif, Geneva, Arial, Helvetica;
 
 }
 
@@ -121,7 +121,7 @@ h1{
 
 #player-spec h1{
     font-size: 38px;
-    font-family: "AppleGothic";
+    font-family: Avenir, SansSerif, Geneva, Arial, Helvetica;
     margin-left: 410px;
 }
 #player-spec dl{
@@ -136,7 +136,7 @@ h1{
     clear: both;
     padding: 0 8px 24px 0;
     text-transform: uppercase;
-    font-family: "AppleGothic";
+    font-family: Avenir, SansSerif, Geneva, Arial, Helvetica;
     color: #666764;
 }
 
