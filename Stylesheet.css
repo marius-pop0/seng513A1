@@ -167,6 +167,7 @@ h2{
 #story{
     margin: 10px;
     overflow: auto;
+    font-family: Avenir, SansSerif, Geneva, Arial, Helvetica;
 }
 .left-img{
     float: left;
@@ -187,7 +188,7 @@ h2{
 
 #quote{
 
-    padding: 20px 0px 7px 13px;
+    padding: 20px 0 7px 13px;
     border: dashed;
     border-width: 1px;
     width:90%;
